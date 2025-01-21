@@ -1,0 +1,5 @@
+stateless widget: ui design
+stateful widget: process
+
+to run on emulators, check VSCODE status bar.
+- if no status bar; check view, appearance, status bar
